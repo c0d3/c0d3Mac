@@ -2,7 +2,8 @@
     "root": "./docs",
     "plugins": [
         "autocover",
-        "styleguide"
+        "styleguide",
+        "sitemap"
     ],
     "pluginsConfig": {}
 }
