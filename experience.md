@@ -27,4 +27,8 @@ Reason for leaving: retainer based
      March 2008 to March 2010
  ###### Duties & Responsibilities:
 *Provided Pro Application Support, iPhone setup & device maintenance to companies & or individuals living & working within Cape Town. Specialised in working with the  lm & music industry to provide solutions that catered to their speci c hardware & software needs. Fixed an Adobe software engineer’s Macbook Pro in kernel panic mode, which had the Adobe Air prototype software for SARS the night before the Adobe CS4 launch at the BMW pavilion. was invited to the launch as a guest thereafter. Became Digicape’s  rst band ambassador, showcasing Apple products at the Cape Film Commission at the launch of the soccer world cup. Contract Clients: Saatchi & Saatchi, New Clicks, North South Productions, JWT Ogilvy, Zoom Advertising, Fashini Group.*
+# 
+Salary: *R19 500+ Per Month* 
+
+Reason for leaving: *Resigned as a  eld engineer to start a Apple Support Pro company.*
 
