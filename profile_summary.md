@@ -1,3 +1,3 @@
 ## Profile Summary
 
-Accomplished Apple Macintosh Engineer with over 10 years experience in Film / Sound & Graphic Multimedia development. In-depth knowledge and experience ranging from print media to interactive Authoring solutions in Web & Motion Graphics. Hard Drive Data Management / Data Recovery / OS X, IOS Systems configuration for all Apple devices / R&D providing solutions to home & business environments.
+Accomplished Apple Macintosh Engineer with over 15 years experience in Film / Sound & Graphic Multimedia development. With an in-depth knowledge and experience ranging from print media to interactive Authoring solutions in Web & Motion Graphics. Hard Drive Data Management / Data Recovery / OS X, IOS Systems configuration for all Apple devices / R&D providing solutions to home & business environments.
