@@ -5,5 +5,9 @@
         "styleguide",
         "sitemap"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "sitemap": {
+            "hostname": "https://github.com/c0d3/c0d3Mac"
+        }
+    }
 }
