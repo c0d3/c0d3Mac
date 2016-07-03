@@ -2,7 +2,8 @@
     "root": "./docs",
     "plugins": [
         "styleguide",
-        "sitemap"
+        "sitemap",
+        "theme-default"
     ],
     "pluginsConfig": {
         "sitemap": {
