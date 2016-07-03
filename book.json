@@ -3,7 +3,8 @@
     "plugins": [
         "styleguide",
         "sitemap",
-        "theme-default"
+        "theme-default",
+        "wabtheme"
     ],
     "pluginsConfig": {
         "sitemap": {
