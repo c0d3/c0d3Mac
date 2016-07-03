@@ -5,5 +5,5 @@
 * [Experience](experience.md)
 * [Education](education.md)
 * [Languages](languages.md)
-* Skills
+* [Skills](skills.md)
 
