@@ -32,3 +32,8 @@ Salary: *R19 500+ Per Month*
 
 Reason for leaving: *Resigned as a  eld engineer to start a Apple Support Pro company.*
 
+##### Partner
+ ###### | Terraform Studio cc | Design Services | Permanent | Woodstock |
+     August 2004 to May 2006
+   
+
