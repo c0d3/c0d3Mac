@@ -4,5 +4,5 @@
 * [Profile Summary](profile_summary.md)
 * [Experience](experience.md)
 * [Education](education.md)
-* Languages
+* [Languages](languages.md)
 
