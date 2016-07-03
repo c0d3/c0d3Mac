@@ -12,7 +12,7 @@
     Gender: Male
     Highest Education: Diploma
     Disability: No
-    Email Address: darrin.c0d3@icloud.com
+    Email Address: [darrin.c0d3@icloud.com](darrin.c0d3@icloud.com)
     Contact Number: 0815658162
     Date of Birth: 26 Jul 1978
     Race: White
