@@ -1,8 +1,7 @@
 { 
   "gitbook": "2.5.2",
   "structure": { 
-    "summary": "docs/SUMMARY.md" 
-     ],
+    "summary": "docs/SUMMARY.md", 
     "root": "./docs",
     "plugins": [
         "styleguide",
