@@ -1,4 +1,6 @@
 ## Personal Information
+Darrin Weber
+ Freelance
 
     ID Number: 7807265109083
     Nationality: South African
