@@ -39,4 +39,17 @@ Reason for leaving: *Resigned as a  eld engineer to start a Apple Support Pro co
  ###### Duties & Responsibilities:
  *Joined an IT Business (LightSpeed Development) Designed a Dual Corporate ID for Terraform & LightSpeed Co-started an in-house team of 6 people who provided Apple or PC support to a variety of companies in the CBD area, O ering solutions in Hardware installations, Software sales & custom setups to suite the client. Registered as a dealer with Core Business & acquired credit for Apple products.*
  
- 
+ ##### Self Employed
+  ###### | UntitledMedia cc | Design Services | Permanent | CBD |
+      September 2003 to August 2004
+ ###### Duties & Responsibilities:
+*Established my own company to develop and implement high standards in multimedia design Grew relationships with various design/print studios &  lm production houses Provided administration & technical support to various Macintosh users in & around Cape Town Subcontracted by Juju Films for the Red Bull Music Academy 2003 RBMA Website management, processed & published daily photo & video content to showcase all the events as they took place. Contracted by TWA - Red Bull SA to DVD author an interactive multimedia presentation for Red Bull Austria. A behind the scenes montage of the Red Bull Studio’s construction in Cape Town & what events were facilitated there.*
+
+##### Art Director, Systems & Network Administrator
+  ###### | Miros Productions | Design Services | Permanent | CBD |
+      July 2002 to September 2003
+  ###### Duties & Responsibilities:
+*Carried out research in digital development for  film & television Gained in-depth knowledge and experience
+in Macintosh network services & web development Developed and implemented interactive CD-ROM, showcasing TV adverts & the company profile Gained experience in high end digital photography & knowledge in Eyelike MF chip-back Software Responsible for creative design work on the company profile & stationary.*
+
+
