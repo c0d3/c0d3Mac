@@ -6,5 +6,5 @@
 * [Education](education.md)
 * [Languages](languages.md)
 * [Skills](skills.md)
-* Next job
+* [Next job](next_job.md)
 
