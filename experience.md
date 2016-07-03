@@ -1,13 +1,13 @@
 ## Experience
 
-##### Freelance Apple Engineer
+#### Freelance Apple Engineer
 | Company: **c0d3Mac** |
 ###### | Engineering | Permanent | Cape Town |
     January 2013 to Present
 ######Duties & Responsibilities: 
 *Provide Pro Application Support, iPhone setup & device maintenance to companies & or individuals living & working within Cape Town. Specialised in working with the  film & music industry to provide solutions that cater to speci c hardware & software needs.*
 
-##### Systems & Network Administrator
+#### Systems & Network Administrator
 | Company: **Miros Digital FX** |
 ###### | IT | Contract | Hout Bay |
     June 2011 to September 2012
@@ -18,14 +18,14 @@ Salary: R32 000+ Per Month
 
 Reason for leaving: retainer based
 
-##### Apple Engineer
+#### Apple Engineer
 | Company: **The Macanics** |
 ###### | IT | Permanent | Upper East Side Hotel |
     May 2010 to June 2011
  ###### Duties & Responsibilities:
  *Started an Apple repair centre with a college from Digicape & we based ourselves in a shop front at the Upper East Side Hotel in Woodstock Worked for retainer clients predominantly & became more a liated with Miros Digital FX & utilised their long standing dealership status with Core Business.*
  
- ##### Apple engineer
+ #### Apple Field Engineer
  | Company: **Digicape - Authorised Apple Retail Store** |
  ###### | Engineering | Permanent | Cape Town |
      March 2008 to March 2010
@@ -36,7 +36,7 @@ Salary: *R19 500+ Per Month*
 
 Reason for leaving: *Resigned as a  eld engineer to start a Apple Support Pro company.*
 
-##### Partner
+#### Business Partner
 | Company: **Terraform Studio cc** |
  ###### | Design Services | Permanent | Woodstock |
      August 2004 to May 2006
@@ -44,14 +44,14 @@ Reason for leaving: *Resigned as a  eld engineer to start a Apple Support Pro co
  ###### Duties & Responsibilities:
  *Joined an IT Business (LightSpeed Development) Designed a Dual Corporate ID for Terraform & LightSpeed Co-started an in-house team of 6 people who provided Apple or PC support to a variety of companies in the CBD area, O ering solutions in Hardware installations, Software sales & custom setups to suite the client. Registered as a dealer with Core Business & acquired credit for Apple products.*
  
- ##### Self Employed
+ #### Self Employed
  | Company: **UntitledMedia cc** |
   ###### | Design Services | Permanent | CBD |
       September 2003 to August 2004
  ###### Duties & Responsibilities:
 *Established my own company to develop and implement high standards in multimedia design Grew relationships with various design/print studios &  lm production houses Provided administration & technical support to various Macintosh users in & around Cape Town Subcontracted by Juju Films for the Red Bull Music Academy 2003 RBMA Website management, processed & published daily photo & video content to showcase all the events as they took place. Contracted by TWA - Red Bull SA to DVD author an interactive multimedia presentation for Red Bull Austria. A behind the scenes montage of the Red Bull Studio’s construction in Cape Town & what events were facilitated there.*
 
-##### Art Director, Systems & Network Administrator
+#### Art Director, Systems & Network Administrator
 | Company: **Miros Productions** |
   ###### | Design Services | Retainer | CBD |
       July 2002 to September 2003
@@ -64,7 +64,7 @@ Salary: R18 000+ Per Month
 
 Reason for leaving: Head hunted
 
-##### Senior Designer & Print Technician
+#### Senior Designer & Print Technician
 | Company: **Silver Banana Print Company LTD** |
   ###### | Design Services | Permanent | City bowl |
       February 1999 to June 2002
