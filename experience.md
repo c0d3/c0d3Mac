@@ -36,4 +36,7 @@ Reason for leaving: *Resigned as a  eld engineer to start a Apple Support Pro co
  ###### | Terraform Studio cc | Design Services | Permanent | Woodstock |
      August 2004 to May 2006
    
-
+ ###### Duties & Responsibilities:
+ *Joined an IT Business (LightSpeed Development) Designed a Dual Corporate ID for Terraform & LightSpeed Co-started an in-house team of 6 people who provided Apple or PC support to a variety of companies in the CBD area, O ering solutions in Hardware installations, Software sales & custom setups to suite the client. Registered as a dealer with Core Business & acquired credit for Apple products.*
+ 
+ 
