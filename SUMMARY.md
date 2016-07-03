@@ -7,5 +7,5 @@
 * [Languages](languages.md)
 * [Skills](skills.md)
 * [Next job](next_job.md)
-* Personal Information
+* [Personal Information](personal_information.md)
 
