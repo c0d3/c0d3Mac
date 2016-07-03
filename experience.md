@@ -11,3 +11,8 @@
     June 2011 to September 2012
  ######Duties & Responsibilities:
  *Pro Applications Support, Mac OS X Server network setup & administration.*
+# 
+Salary: R32 000+ Per Month 
+
+Reason for leaving: retainer based
+
