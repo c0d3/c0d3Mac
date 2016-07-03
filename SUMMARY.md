@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Profile Summary
+* [Profile Summary](profile_summary.md)
 
