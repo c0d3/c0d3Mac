@@ -58,8 +58,7 @@ Reason for leaving: *Resigned as a  eld engineer to start a Apple Support Pro co
   ###### Duties & Responsibilities:
 *Carried out research in digital development for  film & television Gained in-depth knowledge and experience
 in Macintosh network services & web development Developed and implemented interactive CD-ROM, showcasing TV adverts & the company profile Gained experience in high end digital photography & knowledge in Eyelike MF chip-back Software Responsible for creative design work on the company profile & stationary.*
-
-
+# 
 Salary: R18 000+ Per Month 
 
 Reason for leaving: Head hunted
@@ -70,8 +69,7 @@ Reason for leaving: Head hunted
       February 1999 to June 2002
  ###### Duties & Responsibilities: 
 *Extensive research in colour management developing ICC pro les for digital print  Delivered high standards in print media & graphic design  Responsible for building & maintaining a print network  Gained in-depth knowledge and experience in large format printing  Dealt with various customers on a daily basis  Developed relationships with various production companies  Prepared print presentations for  lm production companies  Responsible for maintenance on computer & printing equipment.*
-
-
+# 
 Salary: R7 000+ Per Month 
 
 Reason for leaving: Head hunted
