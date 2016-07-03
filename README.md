@@ -1,5 +1,5 @@
 ## Personal Information
-##### Darrin Weber
+##### Darrin Lee Weber
 ###### Freelancer
     July 2016
 
