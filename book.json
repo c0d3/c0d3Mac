@@ -1,7 +1,8 @@
 {
     "root": "./docs",
     "plugins": [
-        "autocover"
+        "autocover",
+        "styleguide"
     ],
     "pluginsConfig": {}
 }
