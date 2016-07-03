@@ -1,6 +1,6 @@
 ## Education
 **Apple Certi ed Mac Technician** (ACMT)
-    2006
+    January 2013 to Present
 Professional Qualifcation https://idmsa.apple.com/IDMSWebAuth/login.html 
 Diploma
 High School Matric
