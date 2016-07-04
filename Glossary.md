@@ -1,4 +1,4 @@
-## Term
+## Personal Information
 Definition for this term
 
 ## Another term
