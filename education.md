@@ -1,5 +1,5 @@
 ## Education
-###### **Apple Certi ed Mac Technician** (ACMT)
+###### **Apple Certified Mac Technician** (ACMT)
     2016
 Professional Qualification
 
