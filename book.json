@@ -5,7 +5,8 @@
         "theme-default",
         "wabtheme",
         "styles-less",
-        "prism"
+        "prism",
+        "customtheme"
     ],
     "pluginsConfig": {
         "sitemap": {
