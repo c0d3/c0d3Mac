@@ -6,7 +6,8 @@
         "wabtheme",
         "styles-less",
         "prism",
-        "customtheme"
+        "customtheme",
+        "extend-default-theme"
     ],
     "pluginsConfig": {
         "sitemap": {
